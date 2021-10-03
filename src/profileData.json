@@ -1,0 +1,64 @@
+{
+	"landing": {
+		"firstName": "Rajat",
+		"lastName": "  Kumar",
+		"phoneNumber": "8447194089",
+		"bio": "I am a Computer Science undergrad with strong hold on data structures and algorithms in C and C++. I have also worked with Node.js for server side development and React-Redux framework for front-end Development. Always on lookout for opportunities to utilize my skills and achieve personal and professional growth while being resourceful,innovative and dynamic in my work that will lead to a learning experience.",
+    		"email": "    rajat230616@gmail.com",
+    		"linkedin": "https://www.linkedin.com/in/rajat-kumar-887293199/",
+		"github": "https://github.com/rajat844"
+	},
+	"experience": [
+		{
+				"position": "Web Development Intern",
+				"organization": "The Sparks Foundation",
+				"aboutWork": "Developed Basic Banking System website. A web application used to tranfer virtual money between multiple users and also record the banking transactions/activities.",
+				"fromDate": "May2021",
+				"toDate": "June2021"
+		}
+	],
+	"education": [{
+			"university": "BHAGWAN PARSHURAM INSTITUTE OF TECHNOLOGY",
+			"degree": "B.Tech in Computer Science",
+			"gpa": "8.01 GPA",
+			"fromDate": "Aug 2018",
+			"toDate": " - May 2022",
+            "location": "Delhi,India"
+		},
+        {
+            "university": "SLS DAV PUBLIC SCHOOL",
+			"degree": "12th | CBSE",
+			"gpa": "78.2%",
+			"fromDate": "2017",
+			"location": "Delhi,India"
+        },
+        {
+            "university": "SLS DAV PUBLIC SCHOOL",
+			"degree": "10th | CBSE",
+			"gpa": "9.0 CGPA",
+			"fromDate": "2017",
+			"location": "Delhi,India"
+        }
+	],
+	"skills": [{
+        "name": "Full Stack Web Development"
+    },
+    {
+        "name": "Data Structures and Algorithms in c++"
+    }
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a CS graduate, I love to travel, trek ,hike and see through the nature. I'm also passionate about soccer and cricket.",
+		"paragraphTwo": "While staying at home i love to read books, watch movies and play games, I love to do picture animation and I spend large amount of free time exploring technological advancements in the tech fields."
+	},
+	"awards": [{
+			"awardDetail": "Secured Rank under 4000 among 50000+ participants in Round 2 Techgig CODE GLADIATORS 2021."
+		},
+		{
+			"awardDetail": "Full-Stack Web Development with React by UDEMY"
+		},
+        {
+            "awardDetail":"Data Structures and Algorithms by COURSERA"
+        }
+	]
+}
