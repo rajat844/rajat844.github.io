@@ -26,7 +26,7 @@ class Skills extends Component {
               )
             }
           </ul>
-          <div style= {{paddingTop: "10%"}} className="subheading mb-3">Workflow</div>
+          <div style= {{paddingTop: "2%"}} className="subheading mb-3">Workflow</div>
           <ul className="fa-ul mb-0">
             {
               this.skills.map((data, index) => (
