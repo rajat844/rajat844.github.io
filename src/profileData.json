@@ -37,7 +37,7 @@
             "university": "SLS DAV PUBLIC SCHOOL",
 			"degree": "10th | CBSE",
 			"gpa": "9.0 CGPA",
-			"fromDate": "2017",
+			"fromDate": "2015",
 			"location": "Delhi,India"
         }
 	],
@@ -45,15 +45,15 @@
         "name": "Full Stack Web Development"
     },
     {
-        "name": "Data Structures and Algorithms in c++"
+        "name": "Data Structures and Algorithms in C++"
     }
 	],
 	"interests": {
-		"paragraphOne": "Apart from being a CS graduate, I love to travel, trek ,hike and see through the nature. I'm also passionate about soccer and cricket.",
+		"paragraphOne": "Apart from being a CS graduate, I love to travel, trek, hike and see through the nature. I'm also passionate about soccer and cricket.",
 		"paragraphTwo": "While staying at home i love to read books, watch movies and play games, I love to do picture animation and I spend large amount of free time exploring technological advancements in the tech fields."
 	},
 	"awards": [{
-			"awardDetail": "Secured Rank under 4000 among 50000+ participants in Round 2 Techgig CODE GLADIATORS 2021."
+			"awardDetail": "Secured Rank under 3000 among 50000+ participants in Round 2 Techgig CODE GLADIATORS 2021."
 		},
 		{
 			"awardDetail": "Full-Stack Web Development with React by UDEMY"
