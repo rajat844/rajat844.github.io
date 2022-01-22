@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCheckCircle } from "@fortawesome/free-solid-svg-icons";
 
-const programName = ["logos:c","logos:c-plusplus","logos:html-5","logos:css-3","logos:bootstrap","logos:javascript","logos:nodejs","logos:react","vscode-icons:folder-type-mongodb","logos:mysql","logos:firebase","mdi:microsoft-office","logos:linux-tux"];
+const programName = ["logos:c","logos:c-plusplus","logos:python","logos:html-5","logos:css-3","logos:bootstrap","logos:javascript","logos:nodejs","logos:react","vscode-icons:folder-type-mongodb","logos:mysql","logos:firebase","mdi:microsoft-office","logos:linux-tux"];
 
 class Skills extends Component {
   constructor(props) {

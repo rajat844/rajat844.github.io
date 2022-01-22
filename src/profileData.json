@@ -7,7 +7,8 @@
     		"email": "    rajat230616@gmail.com",
     		"linkedin": "https://www.linkedin.com/in/rajat-kumar-887293199/",
 		"github": "https://github.com/rajat844",
-		"whatsapp" : "https://wa.me/918447194089"
+		"whatsapp" : "https://wa.me/918447194089",
+		"twitter" : "https://twitter.com/talltender0512"
 	},
 	"experience": [
 		{
@@ -18,10 +19,30 @@
 				"toDate": "June2021"
 		}
 	],
+	"projects" :[
+		{
+			"title" : "SOUVENIR" ,
+			"description":"Full Stack social media web app in which user can share posts,like and edit them by logging in JWT authentication with OAuth 2.0 support",
+			"techused" : "HTML, CSS, JavaScript, node.js, React.js, mongodb, Redux.js",
+			"code" : "https://github.com/rajat844/souvenir"
+		},
+		{
+			"title" : "NOTE KEEPER",
+			"description" : "Front-end web application to keep and store the daily notes",
+			"techused" : "HTML, CSS, JavaScript, node.js , React.js",
+			"code" : "https://github.com/rajat844/googlekeeepClone"
+		},
+		{
+			"title" :"SPOTIFY CLONE",
+			"description": "Front-end clone web application of Spotify. Fully designed front webpage.",
+			"techused" :"HTML, CSS, JavaScript, node.js, React.js",
+			"code" :"https://github.com/rajat844/spotifyClone"
+		}
+	],
 	"education": [{
 			"university": "BHAGWAN PARSHURAM INSTITUTE OF TECHNOLOGY",
 			"degree": "B.Tech in Computer Science",
-			"gpa": "8.01 GPA",
+			"gpa": "8.08 GPA",
 			"fromDate": "Aug 2018",
 			"toDate": " - May 2022",
             "location": "Delhi,India"
